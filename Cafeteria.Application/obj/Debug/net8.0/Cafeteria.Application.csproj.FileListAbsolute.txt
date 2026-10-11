@@ -1,0 +1,15 @@
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\bin\Debug\net8.0\Cafeteria.Application.deps.json
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\bin\Debug\net8.0\Cafeteria.Application.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\bin\Debug\net8.0\Cafeteria.Application.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\bin\Debug\net8.0\Cafeteria.Domain.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\bin\Debug\net8.0\Cafeteria.Domain.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.csproj.AssemblyReference.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.AssemblyInfoInputs.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.AssemblyInfo.cs
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteri.62EFED23.Up2Date
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\refint\Cafeteria.Application.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\Cafeteria.Application.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Application\obj\Debug\net8.0\ref\Cafeteria.Application.dll

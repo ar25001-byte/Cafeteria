@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cafeteria.Application/1.0.0": {
+        "dependencies": {
+          "Cafeteria.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cafeteria.Application.dll": {}
+        }
+      },
+      "Cafeteria.Domain/1.0.0": {
+        "runtime": {
+          "Cafeteria.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cafeteria.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cafeteria.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

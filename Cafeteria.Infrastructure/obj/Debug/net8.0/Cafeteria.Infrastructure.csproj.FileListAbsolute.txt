@@ -1,0 +1,17 @@
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.AssemblyInfo.cs
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Infrastructure.deps.json
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Infrastructure.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Infrastructure.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Application.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Domain.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Application.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\bin\Debug\net8.0\Cafeteria.Domain.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteri.1F2BDD9D.Up2Date
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\refint\Cafeteria.Infrastructure.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\Cafeteria.Infrastructure.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Infrastructure\obj\Debug\net8.0\ref\Cafeteria.Infrastructure.dll

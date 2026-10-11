@@ -1,0 +1,11 @@
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\bin\Debug\net8.0\Cafeteria.Domain.deps.json
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\bin\Debug\net8.0\Cafeteria.Domain.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\bin\Debug\net8.0\Cafeteria.Domain.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\Cafeteria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\Cafeteria.Domain.AssemblyInfoInputs.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\Cafeteria.Domain.AssemblyInfo.cs
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\Cafeteria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\Cafeteria.Domain.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\refint\Cafeteria.Domain.dll
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\Cafeteria.Domain.pdb
+C:\Users\isaia\Documents\Cafeteria\Cafeteria.Domain\obj\Debug\net8.0\ref\Cafeteria.Domain.dll

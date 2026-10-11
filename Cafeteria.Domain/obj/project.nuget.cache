@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCVwNTtl6u4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaia\\Documents\\Cafeteria\\Cafeteria.Domain\\Cafeteria.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaia\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\isaia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\isaia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
